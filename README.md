@@ -1,6 +1,3 @@
-# Developer-Note
-The developer note records my frequently-used tools/sources/plugins in my work.
-
 # Frequently-Used Development Tools/Sources/Plugins
 ### [1] [Google Test Framework](https://github.com/google/googletest)
 The test framework supported by Google is able to provide unit/integration testing framework, which largely enhance team productivity.
