@@ -25,3 +25,6 @@ The project provides developers an industrial-strength lock-free queue for C++.
 
 ### [8] [Unix Network Programming](https://github.com/hailinzeng/Unix-Network-Programming)
 The project provides a variety of Unix networking techniques for developers to handle socket programming conditions.
+
+### [9] [Google Protocol Buffers](https://developers.google.com/protocol-buffers)
+The project provides a language-neutral, platform-neutral extensible mechanism for serializing structured data.
